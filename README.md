@@ -10,6 +10,6 @@ stepts to use:
 7.create service (a class that contains the business logic ) 
 8.crate controller class finally
 9.create view (html files) . it is recommended to use frameworks like react and angular instead of simple html thymleaf template engine.
-10.right click on your project or on your spring 
+10.right click on your project or on your spring application a class where the main method resides and run as spring boot app 
 
 
