@@ -1,5 +1,5 @@
 # StudentCRUD
-This simple project aims to teach undergraduate students about spring MVC in CRUD operation using spring boot framework.
+This simple project aims develop spring MVC project with basic functionality of CRUD operation using spring boot framework.
 stepts to use:
 1.install eclipse IDE for enterprise java and web developers 
 2.create a spring boot project in either of 2 ways ( either by installing spring tools from eclipse market place(help-->eclipse market place) or from spring initializer website(spring.io)
